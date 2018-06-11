@@ -16,3 +16,23 @@ hr.headings {
 	background-color: black;
 	width: 10%;
 }
+
+.app {}
+
+.app .name {
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.app .download {
+	font-variant: small-caps;
+}
+
+.app .desc {
+	font-style: italic;
+	margin-left: 5em;
+}
+
+.app p {
+	margin-left: .5em;
+}
